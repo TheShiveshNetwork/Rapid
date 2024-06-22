@@ -7,7 +7,7 @@ import { osmEntity, osmNode, osmWay } from '../osm/index.js';
 import { utilFetchResponse } from '../util/index.js';
 
 
-const APIROOT = 'https://mapwith.ai/maps/ml_roads';
+const APIROOT = 'https://d3mp0clry3850z.cloudfront.net/base';
 const TILEZOOM = 16;
 
 
